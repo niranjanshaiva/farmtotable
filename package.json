@@ -8,17 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
-    "next-connect": "^0.13.0",
     "formidable": "^3.5.4",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.7.1",
     "next": "^14.1.0",
+    "next-connect": "^0.13.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
-    "@types/next-connect": "^0.10.0",
     "@types/formidable": "^3.4.5",
     "@types/node": "24.0.10",
     "@types/react": "19.1.8",
