@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "next-connect": "^0.13.0",
     "formidable": "^3.5.4",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.7.1",
