@@ -1,0 +1,25 @@
+{
+  "name": "farm-to-table",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "formidable": "^3.5.4",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.7.1",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/formidable": "^3.4.5",
+    "@types/node": "24.0.10",
+    "@types/react": "19.1.8",
+    "typescript": "^5.4.5"
+  }
+}
